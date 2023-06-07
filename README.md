@@ -1,4 +1,4 @@
 # MiPortafolio
-Mi portafolio personal
+Mi portafolio personal.
 
 https://gustavofl1.github.io/MiPortafolio/
